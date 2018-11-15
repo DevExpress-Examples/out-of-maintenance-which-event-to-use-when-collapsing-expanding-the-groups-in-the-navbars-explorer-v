@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/Form1.cs) (VB: [Form1.vb](./VB/Form1.vb))
+<!-- default file list end -->
 # Which event to use when collapsing/expanding the groups in the NavBar's Explorer views?
 
 
